@@ -10,6 +10,7 @@ Based on the axial zero-field splitting model, the scripts automatically generat
 
 The scripts support both integer and half-integer spin systems and can correctly describe easy-axis and easy-plane magnetic anisotropy corresponding to different signs of ($D$). They can be used for theoretical analysis and visualization in studies related to single-molecule magnets, spin dynamics, and molecular magnetism.
 
+<br>
 
 ## Theoretical Background
 
@@ -102,6 +103,7 @@ where:
 - $k_B$: Boltzmann constant
 - $T$: temperature
 
+<br>
 
 ## Usage
 
@@ -118,5 +120,7 @@ Then run:
 ```bash
 python script_name.py
 ```
+
+<br>
 
 ## Example Results
