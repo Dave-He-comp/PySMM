@@ -124,3 +124,15 @@ python script_name.py
 <br>
 
 ## Example Results
+
+<p align="center">
+  <img src="/images/SMM_energy_levels.png" width="350">
+</p>
+
+<p align="center">
+  <img src="/images/SMM_potential_barrier.png" width="350">
+</p>
+
+<p align="center">
+  <img src="/images/SMM_relaxation_curve.png" width="350">
+</p>
