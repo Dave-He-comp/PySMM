@@ -110,7 +110,7 @@ Modify the physical parameters at the end of the script:
 ```python
 D = -0.5  # unit: cm^-1
 S = 2
-T = 2.0   # unit: K
+(T = 2.0)   # unit: K
 ```
 
 Then run:
